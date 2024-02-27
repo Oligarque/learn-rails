@@ -72,6 +72,7 @@ end
 
 # learn-rails
 gem 'bootstrap-sass'
+gem 'turbolinks'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'jquery-rails'
